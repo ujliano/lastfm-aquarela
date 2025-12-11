@@ -1,0 +1,6 @@
+streamlit
+pylast
+colorgram.py
+pandas
+matplotlib
+requests
